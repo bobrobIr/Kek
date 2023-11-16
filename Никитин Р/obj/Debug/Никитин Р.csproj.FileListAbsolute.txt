@@ -1,0 +1,8 @@
+C:\Users\Студент\Desktop\Никитин Р\bin\Debug\Никитин Р.exe.config
+C:\Users\Студент\Desktop\Никитин Р\bin\Debug\Никитин Р.exe
+C:\Users\Студент\Desktop\Никитин Р\bin\Debug\Никитин Р.pdb
+C:\Users\Студент\Desktop\Никитин Р\obj\Debug\Никитин Р.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Никитин Р\obj\Debug\Никитин Р.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Никитин Р\obj\Debug\Никитин Р.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Никитин Р\obj\Debug\Никитин Р.exe
+C:\Users\Студент\Desktop\Никитин Р\obj\Debug\Никитин Р.pdb
